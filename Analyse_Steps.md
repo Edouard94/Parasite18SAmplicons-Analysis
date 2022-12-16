@@ -1,9 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
-
 # Check if guppy_basecaller is already installed in your machine
 
 Install guppy on a Linux machine (<https://community.nanoporetech.com/docs/prepare/library_prep_protocols/Guppy-protocol/v/gpb_2003_v1_revan_14dec2018/linux-guppy>). Depending on whether we are running the basecalling on CPU GPU, we will need to choose an appropriate Guppy package.
