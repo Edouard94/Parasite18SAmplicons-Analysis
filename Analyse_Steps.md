@@ -1,3 +1,5 @@
+This document is providing the different steps used to analyse sequenced amplicons of potentially entomopathogenic microsporida and protists. The amplicons were amplified with different set of primers found in the pr2‐primers database (Vaulot et al., 'Pr2‐primer') and sequenced with a MinION sequencer, a R.9 flowcell and the kits EXP-NBD104/SQK-LSK109.
+
 # Check if guppy_basecaller is already installed in your machine
 
 Install guppy on a Linux machine (<https://community.nanoporetech.com/docs/prepare/library_prep_protocols/Guppy-protocol/v/gpb_2003_v1_revan_14dec2018/linux-guppy>). Depending on whether we are running the basecalling on CPU GPU, we will need to choose an appropriate Guppy package.
